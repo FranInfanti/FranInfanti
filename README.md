@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranInfanti&layout=pie&theme=catppuccin_latte)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranInfanti&layout=pie&theme=blue_navy)
 
 <!---
 FranInfanti/FranInfanti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
